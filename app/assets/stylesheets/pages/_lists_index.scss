@@ -1,0 +1,15 @@
+.banner-index {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(asset_path('cinema.jpg'));
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+
+  h1, p {
+    color:whitesmoke;
+  }
+}
